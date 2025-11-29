@@ -1,0 +1,2 @@
+# Don't ignore published plugin files
+!PublishedVersions/**
