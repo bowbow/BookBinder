@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "5cb6a4a3dbb93991",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc4aedca63d673d",
+        "type": "split",
+        "dimension": 72.30989956958393,
+        "children": [
+          {
+            "id": "cc1479ca824964fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0ef5f5d850ebe79f",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Sample book/Act 1.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Act 1"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c285ce9aa4ecea78",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4897fe0323bc4477",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sample book.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sample book"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "c5a867ff6f9399cf",
+        "type": "tabs",
+        "dimension": 27.69010043041607,
+        "children": [
+          {
+            "id": "843de65915820cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample book/Introduction to the book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to the book"
+            }
+          },
+          {
+            "id": "a126e4ac3a41306c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw text/parking up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parking up"
+            }
+          },
+          {
+            "id": "61d83f45df403061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw text/parking up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parking up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3296c34e8a371ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3637dc8a2f652851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2112cb4f5bf8def8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "43beb07db0f53180",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e372b8215f2db669",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5d3e041923196978",
+    "type": "split",
+    "children": [
+      {
+        "id": "60d8fc5650bd400f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92dbfaafd8812e4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9fcedc448e907775",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e7d0cd612c2b94c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b30089dae257c3f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "47cde63123325354",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "bookbinder:Bind the files to make a book": false
+    }
+  },
+  "active": "843de65915820cd9",
+  "lastOpenFiles": [
+    "Sample book.md",
+    "Sample book/Introduction to the book.md",
+    "raw text/parking up.md",
+    "Sample book/Act 1.md",
+    "raw text/speak to the warden.md",
+    "draft-output.md",
+    "Sample book/Act 2.md",
+    "draft1.md",
+    "parse2.ts",
+    "draft.md",
+    "Sample book",
+    "Time for a short coffee break.md",
+    "raw text/Prize winner headache.md",
+    "file1.md",
+    "raw text/sc1.md",
+    "raw text/Sc2.md",
+    "parse2.py",
+    "parse_headings.py",
+    "raw text/KB1",
+    "raw text",
+    "Welcome.md",
+    "Untitled Kanban 1.md"
+  ]
+}

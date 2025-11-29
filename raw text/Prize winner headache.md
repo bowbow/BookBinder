@@ -1,0 +1,1 @@
+The constant stress of fame and talk, starts to take its toll on the professor.
