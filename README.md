@@ -38,10 +38,10 @@ An Obsidian plugin that compiles linked notes from folders into cohesive manuscr
    ```bash
    ./publish.sh
    ```
-   This script automatically builds the plugin and copies the necessary files (`main.js`, `manifest.json`, `styles.css`) to the `PublishedVersions/` directory.
+   This script automatically builds the plugin and copies the necessary files (`main.js`, `manifest.json`, `styles.css`) to the `PublishedVersions/bookbinder/` directory.
 
 3. **Install in another vault:**
-   - Copy the contents of `PublishedVersions/` to `<target-vault>/.obsidian/plugins/bookbinder/`
+   - Copy the `PublishedVersions/bookbinder/` folder to `<target-vault>/.obsidian/plugins/`
    - Restart Obsidian or reload the vault
    - Enable the plugin in Settings → Community plugins
 
