@@ -268,6 +268,12 @@
   },
   "active": "843de65915820cd9",
   "lastOpenFiles": [
+    "README.md",
+    "publish.sh",
+    "PublishedVersions/styles.css",
+    "PublishedVersions/manifest.json",
+    "PublishedVersions/main.js",
+    "PublishedVersions",
     "Sample book.md",
     "Sample book/Introduction to the book.md",
     "raw text/parking up.md",
@@ -287,7 +293,6 @@
     "parse2.py",
     "parse_headings.py",
     "raw text/KB1",
-    "raw text",
     "Welcome.md",
     "Untitled Kanban 1.md"
   ]

@@ -1,0 +1,10 @@
+{
+	"id": "bookbinder",
+	"name": "Bookbinder",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Compiles linked notes from folders into cohesive manuscripts and books.",
+	"author": "Bow",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
